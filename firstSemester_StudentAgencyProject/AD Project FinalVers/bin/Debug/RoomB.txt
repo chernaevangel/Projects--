@@ -1,0 +1,6 @@
+ROOM-B 
+ (Names: John Smith) 
+ (Nationality: Brittish)
+ (Date of birth:3/11/1998) 
+ (Username: Usr54123) 
+ (Password: 8C5uKQ)

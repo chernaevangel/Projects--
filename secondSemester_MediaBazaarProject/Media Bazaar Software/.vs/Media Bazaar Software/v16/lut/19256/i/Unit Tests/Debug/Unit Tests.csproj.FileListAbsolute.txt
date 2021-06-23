@@ -1,0 +1,8 @@
+D:\UNI\P-CB-S2-06\PRJ\Solutions\Media Bazaar Software v7 - Refractored Code\.vs\Media Bazaar Software\v16\lut\0\b\Unit Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\UNI\P-CB-S2-06\PRJ\Solutions\Media Bazaar Software v7 - Refractored Code\.vs\Media Bazaar Software\v16\lut\0\b\Unit Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\UNI\P-CB-S2-06\PRJ\Solutions\Media Bazaar Software v7 - Refractored Code\.vs\Media Bazaar Software\v16\lut\0\b\Unit Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\UNI\P-CB-S2-06\PRJ\Solutions\Media Bazaar Software v7 - Refractored Code\.vs\Media Bazaar Software\v16\lut\0\b\Unit Tests\bin\Debug\Unit Tests.dll
+D:\UNI\P-CB-S2-06\PRJ\Solutions\Media Bazaar Software v7 - Refractored Code\.vs\Media Bazaar Software\v16\lut\0\i\Unit Tests\Debug\Unit Tests.csprojAssemblyReference.cache
+D:\UNI\P-CB-S2-06\PRJ\Solutions\Media Bazaar Software v7 - Refractored Code\.vs\Media Bazaar Software\v16\lut\0\i\Unit Tests\Debug\Unit Tests.csproj.CoreCompileInputs.cache
+D:\UNI\P-CB-S2-06\PRJ\Solutions\Media Bazaar Software v7 - Refractored Code\.vs\Media Bazaar Software\v16\lut\0\i\Unit Tests\Debug\Unit Tests.csproj.CopyComplete
+D:\UNI\P-CB-S2-06\PRJ\Solutions\Media Bazaar Software v7 - Refractored Code\.vs\Media Bazaar Software\v16\lut\0\i\Unit Tests\Debug\Unit Tests.dll
