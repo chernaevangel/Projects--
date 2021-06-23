@@ -1,0 +1,76 @@
+body{
+    background-color: rgb(46, 51, 73);
+    color: white;
+    display: block;
+    font-family: "Calibri light";
+}
+
+.formContainer {
+    font-family: "Calibri Light";
+    height: auto;
+    width: 700px;
+    background-color: rgb(24, 30, 54);
+    border: 1px solid white;
+    box-shadow: 303px, 418px black;
+    margin-left: 20px;
+    margin-top: 0;
+    margin: auto; 
+    padding: 20px;
+}
+
+.formContainer h1 {
+    text-align: center;
+}
+
+.formContainer h4 {
+    font-weight: bold;
+    font-size: larger;
+    margin-left: 20px;
+}
+.formContainer h3 {
+    color: red;
+    margin-left: 20px;
+    font-size: normal;
+}
+
+.formContainer input[type="submit"], button {
+    background-color: rgb(34, 44, 84);
+    font: bold 15px Arial;
+    text-decoration: none;
+    text-align: center;
+    color: white;
+    padding: 2px 6px 2px 6px;
+    border-top: 1px solid #CCCCCC;
+    border-right: 1px solid #333333;
+    border-bottom: 1px solid #333333;
+    border-left: 1px solid #CCCCCC;
+    width: 95%;
+    height: 40px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 30px;
+}
+
+.formContainer button {
+    background-color: grey;
+    margin-bottom: auto;
+    height: 30px;
+}
+button:hover, input[type="submit"]:hover {
+    opacity: 0.6;
+}
+
+.formContainer input[type="text"], select {
+    width: 95%;
+    padding: 12px 20px;
+    margin: 4px 0;
+    box-sizing: border-box;
+    margin-left: 20px;
+}
+
+.formContainer #firstName, #lastName {
+    width: 47%;
+}
+.formContainer #lastName {
+    margin-left: 3px;
+}

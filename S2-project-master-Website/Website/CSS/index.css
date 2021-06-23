@@ -1,0 +1,56 @@
+body{
+    background-color: rgb(46, 51, 73);
+    color: white;
+}
+.log-in{
+    width: 475px;
+    margin: auto;
+    margin-top: 200px;
+    background-color: rgb(24, 30, 54);
+}
+  
+  input[type=text], input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+  }
+  button {
+    background-color:rgb(24, 30, 54);
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    border: 3px solid white;
+  }
+
+  button:hover {
+    opacity: 0.6;
+  }
+  
+  /* Add padding to containers */
+  .container {
+    padding: 16px;
+  }
+  
+  /* The "Forgot password" text */
+  span.psw {
+    float: right;
+  }
+  
+  /* Change styles for span and cancel button on extra small screens */
+  @media screen and (max-width: 300px) {
+    span.psw {
+      display: block;
+      float: none;
+    }
+  }
+  .message {
+    color: red;
+    background-color: pink;
+    margin-top: -10px;
+  }
