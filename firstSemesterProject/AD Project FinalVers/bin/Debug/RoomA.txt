@@ -1,6 +1,0 @@
-ROOM-A 
- (Names: Joan Krastanov) 
- (Nationality: Bulgarian)
- (Date of birth:2/11/2002) 
- (Username: Usr90898) 
- (Password: 3hPMZN)
