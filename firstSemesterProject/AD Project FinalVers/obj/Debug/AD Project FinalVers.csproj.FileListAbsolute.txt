@@ -1,0 +1,26 @@
+D:\UNI\P-CB- S06\Project\AD Project FinalVers\AD Project FinalVers\bin\Debug\AD Project FinalVers.exe.config
+D:\UNI\P-CB- S06\Project\AD Project FinalVers\AD Project FinalVers\bin\Debug\AD Project FinalVers.exe
+D:\UNI\P-CB- S06\Project\AD Project FinalVers\AD Project FinalVers\bin\Debug\AD Project FinalVers.pdb
+D:\UNI\P-CB- S06\Project\AD Project FinalVers\AD Project FinalVers\obj\Debug\AD Project FinalVers.csprojAssemblyReference.cache
+D:\UNI\P-CB- S06\Project\AD Project FinalVers\AD Project FinalVers\obj\Debug\AD_Project_FinalVers.Form1.resources
+D:\UNI\P-CB- S06\Project\AD Project FinalVers\AD Project FinalVers\obj\Debug\AD_Project_FinalVers.Properties.Resources.resources
+D:\UNI\P-CB- S06\Project\AD Project FinalVers\AD Project FinalVers\obj\Debug\AD Project FinalVers.csproj.GenerateResource.cache
+D:\UNI\P-CB- S06\Project\AD Project FinalVers\AD Project FinalVers\obj\Debug\AD Project FinalVers.csproj.CoreCompileInputs.cache
+D:\UNI\P-CB- S06\Project\AD Project FinalVers\AD Project FinalVers\obj\Debug\AD Project FinalVers.exe
+D:\UNI\P-CB- S06\Project\AD Project FinalVers\AD Project FinalVers\obj\Debug\AD Project FinalVers.pdb
+D:\UNI\P-CB- S06\Project\AD Project FinalVers\AD Project FinalVers\obj\Debug\AD_Project_FinalVers.DeveloperLogIn.resources
+D:\UNI\P-CB- S06\Project\AD Project FinalVers\AD Project FinalVers\obj\Debug\AD_Project_FinalVers.StudentLogIn.resources
+D:\UNI\P-CB- S06\Project\AD Project FinalVers\AD Project FinalVers\obj\Debug\AD_Project_FinalVers.TaskHistory.resources
+C:\Users\user\OneDrive\Работен плот\AD Project FinalVers\AD Project FinalVers\bin\Debug\AD Project FinalVers.exe.config
+C:\Users\user\OneDrive\Работен плот\AD Project FinalVers\AD Project FinalVers\bin\Debug\AD Project FinalVers.exe
+C:\Users\user\OneDrive\Работен плот\AD Project FinalVers\AD Project FinalVers\bin\Debug\AD Project FinalVers.pdb
+C:\Users\user\OneDrive\Работен плот\AD Project FinalVers\AD Project FinalVers\obj\Debug\AD Project FinalVers.csprojAssemblyReference.cache
+C:\Users\user\OneDrive\Работен плот\AD Project FinalVers\AD Project FinalVers\obj\Debug\AD_Project_FinalVers.DeveloperLogIn.resources
+C:\Users\user\OneDrive\Работен плот\AD Project FinalVers\AD Project FinalVers\obj\Debug\AD_Project_FinalVers.Form1.resources
+C:\Users\user\OneDrive\Работен плот\AD Project FinalVers\AD Project FinalVers\obj\Debug\AD_Project_FinalVers.Properties.Resources.resources
+C:\Users\user\OneDrive\Работен плот\AD Project FinalVers\AD Project FinalVers\obj\Debug\AD_Project_FinalVers.StudentLogIn.resources
+C:\Users\user\OneDrive\Работен плот\AD Project FinalVers\AD Project FinalVers\obj\Debug\AD_Project_FinalVers.TaskHistory.resources
+C:\Users\user\OneDrive\Работен плот\AD Project FinalVers\AD Project FinalVers\obj\Debug\AD Project FinalVers.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Работен плот\AD Project FinalVers\AD Project FinalVers\obj\Debug\AD Project FinalVers.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Работен плот\AD Project FinalVers\AD Project FinalVers\obj\Debug\AD Project FinalVers.exe
+C:\Users\user\OneDrive\Работен плот\AD Project FinalVers\AD Project FinalVers\obj\Debug\AD Project FinalVers.pdb
