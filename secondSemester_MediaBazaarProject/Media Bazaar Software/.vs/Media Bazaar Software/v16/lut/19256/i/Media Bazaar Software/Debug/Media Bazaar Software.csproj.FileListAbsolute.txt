@@ -1,0 +1,35 @@
+D:\UNI\P-CB-S2-06\PRJ\Solutions\Media Bazaar Software v7 - Refractored Code\.vs\Media Bazaar Software\v16\lut\0\b\Media Bazaar Software\bin\Debug\Media Bazaar Software.exe.config
+D:\UNI\P-CB-S2-06\PRJ\Solutions\Media Bazaar Software v7 - Refractored Code\.vs\Media Bazaar Software\v16\lut\0\b\Media Bazaar Software\bin\Debug\Media Bazaar Software.exe
+D:\UNI\P-CB-S2-06\PRJ\Solutions\Media Bazaar Software v7 - Refractored Code\.vs\Media Bazaar Software\v16\lut\0\i\Media Bazaar Software\Debug\Media Bazaar Software.csprojAssemblyReference.cache
+D:\UNI\P-CB-S2-06\PRJ\Solutions\Media Bazaar Software v7 - Refractored Code\.vs\Media Bazaar Software\v16\lut\0\i\Media Bazaar Software\Debug\Media Bazaar Software.exe.config
+D:\UNI\P-CB-S2-06\PRJ\Solutions\Media Bazaar Software v7 - Refractored Code\.vs\Media Bazaar Software\v16\lut\0\i\Media Bazaar Software\Debug\Media_Bazaar_Software.Forms.ManagerChildForms.PreferenceForm.resources
+D:\UNI\P-CB-S2-06\PRJ\Solutions\Media Bazaar Software v7 - Refractored Code\.vs\Media Bazaar Software\v16\lut\0\i\Media Bazaar Software\Debug\Media_Bazaar_Software.Forms.ManagerChildForms.EmployeeAvailabilityForm.resources
+D:\UNI\P-CB-S2-06\PRJ\Solutions\Media Bazaar Software v7 - Refractored Code\.vs\Media Bazaar Software\v16\lut\0\i\Media Bazaar Software\Debug\Media_Bazaar_Software.Forms.ManagerChildForms.ShiftGeneratorForm.resources
+D:\UNI\P-CB-S2-06\PRJ\Solutions\Media Bazaar Software v7 - Refractored Code\.vs\Media Bazaar Software\v16\lut\0\i\Media Bazaar Software\Debug\Media_Bazaar_Software.Properties.Resources.resources
+D:\UNI\P-CB-S2-06\PRJ\Solutions\Media Bazaar Software v7 - Refractored Code\.vs\Media Bazaar Software\v16\lut\0\i\Media Bazaar Software\Debug\Media_Bazaar_Software.UI.AdministratorChildForms.AddItemForm.resources
+D:\UNI\P-CB-S2-06\PRJ\Solutions\Media Bazaar Software v7 - Refractored Code\.vs\Media Bazaar Software\v16\lut\0\i\Media Bazaar Software\Debug\Media_Bazaar_Software.UI.AdministratorChildForms.DepartmentManagment.resources
+D:\UNI\P-CB-S2-06\PRJ\Solutions\Media Bazaar Software v7 - Refractored Code\.vs\Media Bazaar Software\v16\lut\0\i\Media Bazaar Software\Debug\Media_Bazaar_Software.UI.AdministratorChildForms.FinancesForm.resources
+D:\UNI\P-CB-S2-06\PRJ\Solutions\Media Bazaar Software v7 - Refractored Code\.vs\Media Bazaar Software\v16\lut\0\i\Media Bazaar Software\Debug\Media_Bazaar_Software.UI.AdministratorChildForms.InventoryManagerForm.resources
+D:\UNI\P-CB-S2-06\PRJ\Solutions\Media Bazaar Software v7 - Refractored Code\.vs\Media Bazaar Software\v16\lut\0\i\Media Bazaar Software\Debug\Media_Bazaar_Software.UI.AdministratorForm.resources
+D:\UNI\P-CB-S2-06\PRJ\Solutions\Media Bazaar Software v7 - Refractored Code\.vs\Media Bazaar Software\v16\lut\0\i\Media Bazaar Software\Debug\Media_Bazaar_Software.UI.DepotForm.resources
+D:\UNI\P-CB-S2-06\PRJ\Solutions\Media Bazaar Software v7 - Refractored Code\.vs\Media Bazaar Software\v16\lut\0\i\Media Bazaar Software\Debug\Media_Bazaar_Software.UI.EmployeeDepotChildForms.FeedbackForm.resources
+D:\UNI\P-CB-S2-06\PRJ\Solutions\Media Bazaar Software v7 - Refractored Code\.vs\Media Bazaar Software\v16\lut\0\i\Media Bazaar Software\Debug\Media_Bazaar_Software.UI.EmployeeDepotChildForms.RestockItemsForm.resources
+D:\UNI\P-CB-S2-06\PRJ\Solutions\Media Bazaar Software v7 - Refractored Code\.vs\Media Bazaar Software\v16\lut\0\i\Media Bazaar Software\Debug\Media_Bazaar_Software.UI.EmployeeChildForms.Schedule.resources
+D:\UNI\P-CB-S2-06\PRJ\Solutions\Media Bazaar Software v7 - Refractored Code\.vs\Media Bazaar Software\v16\lut\0\i\Media Bazaar Software\Debug\Media_Bazaar_Software.UI.EmployeeDepotChildForms.SellItemsForm.resources
+D:\UNI\P-CB-S2-06\PRJ\Solutions\Media Bazaar Software v7 - Refractored Code\.vs\Media Bazaar Software\v16\lut\0\i\Media Bazaar Software\Debug\Media_Bazaar_Software.UI.EmployeeForm.resources
+D:\UNI\P-CB-S2-06\PRJ\Solutions\Media Bazaar Software v7 - Refractored Code\.vs\Media Bazaar Software\v16\lut\0\i\Media Bazaar Software\Debug\Media_Bazaar_Software.UI.HRChildForms.AddEmployeeForm.resources
+D:\UNI\P-CB-S2-06\PRJ\Solutions\Media Bazaar Software v7 - Refractored Code\.vs\Media Bazaar Software\v16\lut\0\i\Media Bazaar Software\Debug\Media_Bazaar_Software.UI.LogInForm.resources
+D:\UNI\P-CB-S2-06\PRJ\Solutions\Media Bazaar Software v7 - Refractored Code\.vs\Media Bazaar Software\v16\lut\0\i\Media Bazaar Software\Debug\Media_Bazaar_Software.UI.HRForm.resources
+D:\UNI\P-CB-S2-06\PRJ\Solutions\Media Bazaar Software v7 - Refractored Code\.vs\Media Bazaar Software\v16\lut\0\i\Media Bazaar Software\Debug\Media_Bazaar_Software.UI.ManagerChildForms.BundlesForm.resources
+D:\UNI\P-CB-S2-06\PRJ\Solutions\Media Bazaar Software v7 - Refractored Code\.vs\Media Bazaar Software\v16\lut\0\i\Media Bazaar Software\Debug\Media_Bazaar_Software.UI.ManagerChildForms.CreateBundleForm.resources
+D:\UNI\P-CB-S2-06\PRJ\Solutions\Media Bazaar Software v7 - Refractored Code\.vs\Media Bazaar Software\v16\lut\0\i\Media Bazaar Software\Debug\Media_Bazaar_Software.UI.ManagerChildForms.FeedbackForm.resources
+D:\UNI\P-CB-S2-06\PRJ\Solutions\Media Bazaar Software v7 - Refractored Code\.vs\Media Bazaar Software\v16\lut\0\i\Media Bazaar Software\Debug\Media_Bazaar_Software.UI.ManagerChildForms.InventoryForm.resources
+D:\UNI\P-CB-S2-06\PRJ\Solutions\Media Bazaar Software v7 - Refractored Code\.vs\Media Bazaar Software\v16\lut\0\i\Media Bazaar Software\Debug\Media_Bazaar_Software.UI.ManagerChildForms.RestockForm.resources
+D:\UNI\P-CB-S2-06\PRJ\Solutions\Media Bazaar Software v7 - Refractored Code\.vs\Media Bazaar Software\v16\lut\0\i\Media Bazaar Software\Debug\Media_Bazaar_Software.UI.ManagerChildForms.ScheduleCreatorForm.resources
+D:\UNI\P-CB-S2-06\PRJ\Solutions\Media Bazaar Software v7 - Refractored Code\.vs\Media Bazaar Software\v16\lut\0\i\Media Bazaar Software\Debug\Media_Bazaar_Software.UI.ManagerForm.resources
+D:\UNI\P-CB-S2-06\PRJ\Solutions\Media Bazaar Software v7 - Refractored Code\.vs\Media Bazaar Software\v16\lut\0\i\Media Bazaar Software\Debug\Media_Bazaar_Software.UI.SettingsForm.resources
+D:\UNI\P-CB-S2-06\PRJ\Solutions\Media Bazaar Software v7 - Refractored Code\.vs\Media Bazaar Software\v16\lut\0\i\Media Bazaar Software\Debug\Media_Bazaar_Software.UserControls.UCLoggedUser.resources
+D:\UNI\P-CB-S2-06\PRJ\Solutions\Media Bazaar Software v7 - Refractored Code\.vs\Media Bazaar Software\v16\lut\0\i\Media Bazaar Software\Debug\Media Bazaar Software.csproj.GenerateResource.cache
+D:\UNI\P-CB-S2-06\PRJ\Solutions\Media Bazaar Software v7 - Refractored Code\.vs\Media Bazaar Software\v16\lut\0\i\Media Bazaar Software\Debug\Media Bazaar Software.csproj.CoreCompileInputs.cache
+D:\UNI\P-CB-S2-06\PRJ\Solutions\Media Bazaar Software v7 - Refractored Code\.vs\Media Bazaar Software\v16\lut\0\i\Media Bazaar Software\Debug\Media Bazaar Software.csproj.CopyComplete
+D:\UNI\P-CB-S2-06\PRJ\Solutions\Media Bazaar Software v7 - Refractored Code\.vs\Media Bazaar Software\v16\lut\0\i\Media Bazaar Software\Debug\Media Bazaar Software.exe
