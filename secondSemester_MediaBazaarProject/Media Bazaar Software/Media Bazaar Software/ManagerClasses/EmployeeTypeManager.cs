@@ -17,6 +17,7 @@ namespace Media_Bazaar_Software.ManagerClasses
     {
         private EmployeeTypeDatabaseLoad employeeTypeDatabaseManager;
         //are bee
+        //kvo stana mishok
         public EmployeeTypeDatabaseLoad EmployeeTypeDatabaseManager { get { return employeeTypeDatabaseManager; } set { employeeTypeDatabaseManager = value; } }
         public List<EmployeeType> employeeTypes { get; private set; }
         public EmployeeTypeManager()
