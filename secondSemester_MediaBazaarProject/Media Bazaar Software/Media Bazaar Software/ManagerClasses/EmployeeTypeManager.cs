@@ -16,6 +16,7 @@ namespace Media_Bazaar_Software.ManagerClasses
     public class EmployeeTypeManager : IManager
     {
         private EmployeeTypeDatabaseLoad employeeTypeDatabaseManager;
+        //are bee
         public EmployeeTypeDatabaseLoad EmployeeTypeDatabaseManager { get { return employeeTypeDatabaseManager; } set { employeeTypeDatabaseManager = value; } }
         public List<EmployeeType> employeeTypes { get; private set; }
         public EmployeeTypeManager()
